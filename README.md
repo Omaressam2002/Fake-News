@@ -4,3 +4,4 @@ Fake News Detection:
 - Validation set scores:
  -  Multinomial Naive Bayes scored : 91.9%
  -  Logistic regression scored : 96.7% 
+ -  Gradient Boosting = 97.3%
